@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProgarmInitiator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProgarmInitiator_jar</output-path>
+    <root id="archive" name="ProgarmInitiator.jar">
+      <element id="module-output" name="ProgarmInitiator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jar/spigot-api-1.10-R0.1-20160618.090835-32.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,19 @@
+name: ProgarmInitiator
+main: io.github.taixue.plugin.programinitiator.Plugin
+version: 1.0
+author: Chuanwise
+
+commands:
+  programinitiator:
+    description: General command for PINIT
+    aliases: [pinit]
+    usage: |
+      Usage:
+      /pinit execute <program name> [arguments]
+      /pinit command <command will run in cmd.exe>
+
+permissions:
+  pinit.execute:
+    default: op
+  pinit.command:
+    default: op
